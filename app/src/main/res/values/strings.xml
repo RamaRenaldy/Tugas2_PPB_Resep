@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Tugas_RecyclerView</string>
+
+    <string-array name="judul_resep">
+        <item>Nasi Goreng</item>
+        <item>Pasta</item>
+        <item>Mie Goreng</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Nasi Goreng adalah salah satu makanan khas Indonesia yang sangat disukai oleh berbagai macam kalangan, dari dalam negeri maupun luar negeri.</item>
+        <item>Pasta adalah masakan khas Italia yang dimasak menggunakan saus yang khas dan bermacam-macam.</item>
+        <item>Mie Goreng adalah salah satu olahan dari mie yang paling disukai oleh semua orang.</item>
+    </string-array>
+
+    <string-array name="bahan2">
+        <item>
+            Bahan-bahan yang diperlukan:\n
+            2 porsi nasi putih\n
+            2 butir telur ayam, dikocok\n
+            Minyak goreng untuk menumis\n\n
+
+            Bumbu nasi goreng (dihaluskan) :\n
+            5 buah cabe merah\n
+            3 siung bawang merah\n
+            4 siung bawang putih.\n
+        </item>
+        <item>
+            Pasta siap saji 200 gram\n
+            Minyak goreng 1 sendok teh\n
+            Daging ayam 200 gram\n
+            Bawang bombay 1 butir\n
+            Merica 1 sdt\n
+            Mentega 1 sdm\n
+            Saus Tomat\n
+            Air ½ liter\n
+            Secukupnya garam halus\n
+            Tomat segar 3 butir\n
+            Cabe rawit 3 biji\n
+            Cabe merah 1 biji\n
+            Bawang putih 3 siung\n
+            Mentega ½ sendok makan\n
+        </item>
+        <item>
+            1 bungkus (2 potong) mie telur kering, rebus hingga matang lalu tiriskan dan tambahkan 1 sendok makan minyak goreng, aduk rata\n
+            5 butir kemiri sangrai\n
+            4 siung bawang putih\n
+            2 sendok makan Kecap Bango Manis Pedas Gurih\n
+            1/4 sendok teh lada putih bubuk\n
+            1/4 sendok teh garam\n
+            1 sendok teh gula pasir\n
+            5 butir bakso sapi, potong\n
+            100 gram udang pancet atau udang galah kupas\n
+            200 gram kol, potong\n
+            200 gram sawi hijau / caisim, potong-potong\n
+            2 tangkai daun bawang, potong bulat 1 cm\n
+            1 tangkai daun seledri, potong kasar\n
+            1 bungkus Royco sapi\n
+            2 butir telur ayam, kocok lepas\n
+            5 sendok makan minyak goreng\n
+        </item>
+    </string-array>
+
+    <string-array name="langkah2">
+        <item>
+            Panaskan wajan dengan minyak secukupnya, masukkan telur yang sudah dikocok, tunggu setengah matang selanjutnya masukkan bumbu yang telah dihaluskan. Aduk hingga keluar aromanya.\n
+            Masukkan nasi putih, garam, penyedap dan kecap secukupnya. Aduk hingga semua tercampur dan merata. Nah saat mengaduk ini besarkan apinya (hasilnya akan lebih enak). Setelah dirasa semua bumbu sudah merata, Angkat\n
+            Sajikan di piring, bila perlu tambahkan lagi telur ceplok atau telur dadar (extra)\n
+            Untuk penyajiannya jangan lupa kerupuk dan irisan timun/acar agar lebih menarik tampilannya serta lebih enak.\n
+        </item>
+        <item>
+            Untuk pasta: Didihkan air sekitar ½ liter kemudian masukkan spaghetti ke dalamnya dan tambahkan dengan minyak. Tunggu sampai spaghettinya merekah dan matang. Angkat dan tiriskan.\n
+            Selanjutnya, potong tipis bawang bombay dan tumis.\n
+            Tambahkan tumisan bawang bombay dengan daging ayam. Aduk merata.\n
+            Siramkan saus tomat ke dalam masakan spaghetti sebanyak 150 ml lalu disusul dengan menambahkan air sekitar 50 ml. Aduk-aduk.\n
+            Angkat pasta dan tuangkan pada piring saji.\n
+            Pasta sederhana siap dinikmati.\n
+        </item>
+        <item>
+            Tumis bumbu halus hingga harum dan matang betul, kemudian masukkan bakso, udang, tumis hingga berubah warna lalu tambahkan telur. Setelah telur matang, masukkan sayuran, Royko, garam, dan gula.\n
+            Tambahkan mie dan kecap. Aduk hingga bumbu merata dengan mie.\n
+        </item>
+    </string-array>
+
+</resources>
